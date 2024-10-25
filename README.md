@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://img.shields.io/badge/any_text-you_like-blue
 
 - 🌱 I’m currently learning ...
     - JavaScript 
