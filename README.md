@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning ...
+    - Development
+
 <!--
 **Ungerer221/Ungerer221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About me 
+- ive been a developer for almost 3 years
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+## I've worked with 
+- react
+- angular
+- mongo
+- firebase
+- postgress SQl
 
 
-
-- 🌱 I’m currently learning ...
-    - JavaScript 
-    - React
