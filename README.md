@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="ReadmeAssets\PortfolioImage.jpg">
+
 - 🌱 I’m currently learning ...
     - Development
 
@@ -16,6 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- Color Pallete
 -->
 # About me 
 - ive been a developer for almost 3 years
