@@ -22,13 +22,27 @@ Here are some ideas to get you started:
 - Color Pallete
 -->
 # About me 
-- ive been a developer for almost 3 years
+I've been a developer studing at open window for almost 3 years now. with all the projects ive worked on during the course of my studies at open window I have `worked with`:
 
-## I've worked with 
+### Languages 
+- javaScript
+- HTMl
+- CSS
+- C#
+- PHP
+
+### Frameworks
 - react
 - angular
+
+### DataBases
 - mongo
 - firebase
 - postgress SQl
+
+### Api's
+- Coin gecko Currency API
+- Azure open AI API 
+- google cloud Vision Ai API
 
 
