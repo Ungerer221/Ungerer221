@@ -46,6 +46,16 @@ I've been a developer studing at open window for almost 3 years now. with all th
 - google cloud Vision Ai API
 
 # Repo Links
+### Term 1 
+`Myself` & `Eddie`
+[Skate360](https://github.com/eddiesosera/skate-360)
+### Term 2
+[Farmlands](https://github.com/Ungerer221/Term2-compition-app-V2-2024)
+### Term 3
+`Group Project`
+[Atro](https://github.com/DieterR97/Astro)
+### Term 4
+[Ideation Project](https://github.com/Ungerer221/Ideation-Term4-Project)
 
 # Skills 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
