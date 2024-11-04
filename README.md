@@ -50,7 +50,7 @@ all the platforms, languages and other things ive worked with over the time of m
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-<!--![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)-->
+<!--[Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)-->
 
 ## Platforms
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
@@ -64,16 +64,32 @@ all the platforms, languages and other things ive worked with over the time of m
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
 # Repo Links
+
 ### Term 1 
 `Myself` & `Eddie`
+
 [Skate360](https://github.com/eddiesosera/skate-360)
+
+<img src="ReadmeAssets\Term1ProjectBanner.jpg">
+
 ### Term 2
+
 [Farmlands](https://github.com/Ungerer221/Term2-compition-app-V2-2024)
+
+<img src="ReadmeAssets\competitionAppBanner.jpg">
+
 ### Term 3
 `Group Project`
+
 [Atro](https://github.com/DieterR97/Astro)
+
+<img src="ReadmeAssets\atrobanner.jpg">
+
 ### Term 4
+
 [Ideation Project](https://github.com/Ungerer221/Ideation-Term4-Project)
+
+<img src="ReadmeAssets\banner.jpg">
 
 # Skills 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
