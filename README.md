@@ -83,7 +83,7 @@ all the platforms, languages and other things ive worked with over the time of m
 
 [Atro](https://github.com/DieterR97/Astro)
 
-<img src="ReadmeAssets\atrobanner.jpg">
+<img src="ReadmeAssets\atrobanner.jpg" style={{borderRaduis:"12px"}}>
 
 ### Term 4
 
