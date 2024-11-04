@@ -16,10 +16,10 @@
 -->
 
 # About me 
-I've been a developer studing at open window for almost 3 years now. with all the projects ive worked on during the course of my studies at open window I have `worked with`:
+I've been a developer studing at open window for almost 3 years now. with all the projects I've worked on during the course of my studies at open window I have `worked with`:
 
 # Everything I have Worked with:
-all the platforms, languages and other things ive worked with over the time of my studies 
+All the platforms, languages and other things ive worked with over the time of my studies 
 ## Languages 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,7 +69,7 @@ all the platforms, languages and other things ive worked with over the time of m
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
-# Repo Links
+# Year 3 Project Repo Links
 
 ### Term 1 
 `Myself` & `Eddie`
@@ -106,3 +106,7 @@ all the platforms, languages and other things ive worked with over the time of m
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+
+# States
+
+
