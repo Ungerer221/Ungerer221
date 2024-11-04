@@ -70,26 +70,26 @@ all the platforms, languages and other things ive worked with over the time of m
 
 [Skate360](https://github.com/eddiesosera/skate-360)
 
-<img src="ReadmeAssets\Term1ProjectBanner.jpg">
+<img src="ReadmeAssets\Term1ProjectBanner.png">
 
 ### Term 2
 
 [Farmlands](https://github.com/Ungerer221/Term2-compition-app-V2-2024)
 
-<img src="ReadmeAssets\competitionAppBanner.jpg">
+<img src="ReadmeAssets\Term2ProjectBanner.png">
 
 ### Term 3
 `Group Project`
 
 [Atro](https://github.com/DieterR97/Astro)
 
-<img src="ReadmeAssets\atrobanner.jpg" style={{borderRaduis:"12px"}}>
+<img src="ReadmeAssets\Term3ProjectBanner.png" >
 
 ### Term 4
 
 [Ideation Project](https://github.com/Ungerer221/Ideation-Term4-Project)
 
-<img src="ReadmeAssets\banner.jpg">
+<img src="ReadmeAssets\Term4ProjectBanner.png">
 
 # Skills 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
