@@ -2,6 +2,12 @@
 
 <img src="ReadmeAssets\PortfolioImage.jpg">
 
+<h2 align="center"> My Portfolio </h2>
+
+<p align="center">
+    By Ungerer Hattingh
+</p>
+
 🌱 I’m currently learning ...
     - Development
 
