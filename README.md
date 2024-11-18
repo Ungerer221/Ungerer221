@@ -107,6 +107,7 @@ All the platforms, languages and other things ive worked with over the time of m
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 
-# States
+# Contact me
+Email: 221302@virtualwindow.co.za
 
 
